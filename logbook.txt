@@ -1,1 +1,2 @@
 Project Logbook
+Task 1 - Initial discussions on intelligent vehicle system components
