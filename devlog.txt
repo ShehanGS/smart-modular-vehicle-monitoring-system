@@ -1,1 +1,2 @@
 SMVMS Development Log
+Setup initial OBD-II data acquisition module using python-OBD
