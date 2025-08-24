@@ -43,3 +43,4 @@ Task 1 - Initial discussions on intelligent vehicle system components
 Task 2 - Started preparing proposal presentation
 Task 3 - Shared proposal draft with co-supervisor
 Task 4 - Literature review on sensor-based condition analysis
+Task 5 - Explained sensor-based condition analysis
