@@ -1,3 +1,4 @@
 Project Logbook
 Task 1 - Initial discussions on intelligent vehicle system components
 Task 2 - Understanding proposal guidelines and supervisor expectations
+Task 3 - Explained predictive analytics and cloud architecture
