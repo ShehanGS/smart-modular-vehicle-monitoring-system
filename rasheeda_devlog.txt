@@ -1,1 +1,2 @@
 Initial research discussion on Smart Modular Vehicle Monitoring System concept
+Reviewed IoT based vehicle monitoring architectures and technologies
