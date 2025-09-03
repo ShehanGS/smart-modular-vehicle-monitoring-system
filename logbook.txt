@@ -40,3 +40,4 @@ Task 38 - Updated project proposal report
 Task 39 - Prepared progress report
 Task 40 - Compiled supporting appendices
 Task 1 - Initial discussions on intelligent vehicle system components
+Task 2 - Started preparing proposal presentation
