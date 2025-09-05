@@ -151,3 +151,13 @@ This project is licensed under the **MIT License** — you are free to use, modi
 ---
 
 **© 2025 Smart Modular Vehicle Monitoring System | Final Year Research Project - SLIIT**
+
+
+
+Smart Modular Vehicle Monitoring System
+
+Modules:
+- Digital Twin Vehicle Monitoring
+- Driver Emotion Detection
+- Eco Driving Assistant
+- Vehicle Security Monitoring
