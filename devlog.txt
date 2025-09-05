@@ -1,3 +1,4 @@
 SMVMS Development Log
 Setup initial OBD-II data acquisition module using python-OBD
 Implemented Bluetooth communication with ELM327 scanner
+Implemented real-time vehicle parameter extraction (speed, RPM, coolant temperature)
