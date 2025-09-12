@@ -5,3 +5,4 @@ Task 3 - Explained predictive analytics and cloud architecture
 Task 4 - Technical introduction and background of OBD-II integration
 Task 5 - Started preparing proposal presentation
 Task 6 - Preparing for the presentation
+Task 7 - Discussed feedback received from the panel
