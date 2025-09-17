@@ -7,3 +7,4 @@ Task 5 - Started preparing proposal presentation
 Task 6 - Preparing for the presentation
 Task 7 - Discussed feedback received from the panel
 Task 8 - Requirement analysis and literature review for cloud integration and predictive maintenance
+Task 9 - Gathered requirements during garage visit
