@@ -2,3 +2,4 @@ Initial research discussion on Smart Modular Vehicle Monitoring System concept
 Reviewed IoT based vehicle monitoring architectures and technologies
 Analyzed driver behavior detection models using machine learning techniques
 Studied OBD-II protocol and vehicle diagnostic data parameters
+Defined functional requirements for vehicle monitoring modules
