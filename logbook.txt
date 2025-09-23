@@ -45,3 +45,4 @@ Task 3 - Shared proposal draft with co-supervisor
 Task 4 - Literature review on sensor-based condition analysis
 Task 5 - Explained sensor-based condition analysis
 Task 6 - Gathered requirements during garage visit
+Task 7 - Updated proposal and slides with refined methodology
