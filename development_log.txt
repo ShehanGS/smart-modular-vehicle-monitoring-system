@@ -1,3 +1,4 @@
 Initialize IAVSAS module structure
 Design acoustic data pipeline architecture
 Implement audio capture module for vehicle sound monitoring
+Add audio preprocessing for noise filtering and normalization
