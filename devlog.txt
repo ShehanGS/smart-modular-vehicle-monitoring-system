@@ -3,3 +3,4 @@ Setup initial OBD-II data acquisition module using python-OBD
 Implemented Bluetooth communication with ELM327 scanner
 Implemented real-time vehicle parameter extraction (speed, RPM, coolant temperature)
 Implemented diagnostic trouble code detection using OBD commands
+Added vehicle data logging system for storing trip sensor data
