@@ -4,3 +4,4 @@ Analyzed driver behavior detection models using machine learning techniques
 Studied OBD-II protocol and vehicle diagnostic data parameters
 Defined functional requirements for vehicle monitoring modules
 Identified non-functional requirements including scalability and reliability
+Designed high level system architecture for SMVMS platform
