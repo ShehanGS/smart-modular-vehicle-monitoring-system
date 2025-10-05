@@ -4,3 +4,4 @@ Implement audio capture module for vehicle sound monitoring
 Add audio preprocessing for noise filtering and normalization
 Implement MFCC feature extraction for engine sound analysis
 Add dataset loader for vehicle acoustic datasets
+Implement acoustic anomaly detection training pipeline
