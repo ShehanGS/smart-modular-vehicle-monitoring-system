@@ -46,3 +46,4 @@ Task 4 - Literature review on sensor-based condition analysis
 Task 5 - Explained sensor-based condition analysis
 Task 6 - Gathered requirements during garage visit
 Task 7 - Updated proposal and slides with refined methodology
+Task 8 - Overall system architecture design
