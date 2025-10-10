@@ -10,3 +10,4 @@ Task 8 - Requirement analysis and literature review for cloud integration and pr
 Task 9 - Gathered requirements during garage visit
 Task 10 - Updated proposal and slides with refined methodology
 Task 11 - Overall system architecture design
+Task 12 - Component-wise design and responsibility allocation
