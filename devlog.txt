@@ -12,3 +12,4 @@ Refactored predictive maintenance processing pipeline
 Implemented system architecture core modules
 Created modular component design for system services
 Updated module communication interfaces
+Configured project folder architecture and technology stack
