@@ -48,3 +48,4 @@ Task 6 - Gathered requirements during garage visit
 Task 7 - Updated proposal and slides with refined methodology
 Task 8 - Overall system architecture design
 Task 9 - Component-wise design and responsibility allocation
+Task 10 - Updated each members research component
