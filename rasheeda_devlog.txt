@@ -7,3 +7,4 @@ Identified non-functional requirements including scalability and reliability
 Designed high level system architecture for SMVMS platform
 Selected sensor modules for acoustic, motion and environmental monitoring
 Defined communication workflow between system modules
+Selected technology stack for frontend, backend and IoT modules
