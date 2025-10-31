@@ -15,3 +15,4 @@ Updated module communication interfaces
 Configured project folder architecture and technology stack
 Started development of backend service layer
 Implemented individual system components for vehicle monitoring
+Setup frontend and backend development environments
