@@ -14,3 +14,4 @@ Task 12 - Component-wise design and responsibility allocation
 Task 13 - Updated each member research component
 Task 14 - Folder structure creation and technology finalization
 Task 15 - Initial discussions on development process
+Task 16 - Individual component development started
