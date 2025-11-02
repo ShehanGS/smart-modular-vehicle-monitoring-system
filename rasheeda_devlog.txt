@@ -8,3 +8,4 @@ Designed high level system architecture for SMVMS platform
 Selected sensor modules for acoustic, motion and environmental monitoring
 Defined communication workflow between system modules
 Selected technology stack for frontend, backend and IoT modules
+Configured development environments for frontend and backend systems
