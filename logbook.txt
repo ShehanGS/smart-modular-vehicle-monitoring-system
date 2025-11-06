@@ -17,3 +17,4 @@ Task 15 - Initial discussions on development process
 Task 16 - Individual component development started
 Task 17 - Frontend and backend environment setup
 Task 18 - Implementation process discussion
+Task 19 - Folder structure setup
