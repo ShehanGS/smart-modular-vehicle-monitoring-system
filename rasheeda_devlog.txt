@@ -9,3 +9,4 @@ Selected sensor modules for acoustic, motion and environmental monitoring
 Defined communication workflow between system modules
 Selected technology stack for frontend, backend and IoT modules
 Configured development environments for frontend and backend systems
+Implemented backend project structure and base API modules
