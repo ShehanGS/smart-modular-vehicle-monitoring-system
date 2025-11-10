@@ -8,3 +8,4 @@ Implement acoustic anomaly detection training pipeline
 Integrate pretrained model for engine sound classification
 Create backend API endpoints for acoustic event analysis
 Integrate FastAPI backend for real-time audio processing
+Implement WebSocket streaming for real-time sound events
