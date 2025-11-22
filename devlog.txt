@@ -7,3 +7,4 @@ Added vehicle data logging system for storing trip sensor data
 Developed backend API for vehicle monitoring system using FastAPI
 Integrated database for storing vehicle sensor and trip data
 Implemented vehicle monitoring dashboard UI
+Connected frontend dashboard with backend monitoring APIs
