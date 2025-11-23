@@ -11,3 +11,4 @@ Selected technology stack for frontend, backend and IoT modules
 Configured development environments for frontend and backend systems
 Implemented backend project structure and base API modules
 Initialized frontend dashboard project and base layout
+Developed initial API endpoints for vehicle data processing
