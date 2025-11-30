@@ -20,3 +20,4 @@ Task 18 - Implementation process discussion
 Task 19 - Folder structure setup
 Task 20 - Git branch creation and version control setup
 Task 21 - Frontend integration of individual components
+Task 22 - System testing and bug fixing
