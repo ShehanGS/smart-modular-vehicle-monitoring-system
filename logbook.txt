@@ -52,3 +52,4 @@ Task 10 - Updated each members research component
 Task 11 - Individual component development
 Task 12 - Frontend and backend environment setup
 Task 13 - Frontend integration of individual components
+Task 14 - System testing and bug fixing
