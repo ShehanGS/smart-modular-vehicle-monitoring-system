@@ -14,3 +14,4 @@ Initialized frontend dashboard project and base layout
 Developed initial API endpoints for vehicle data processing
 Integrated frontend dashboard with backend API services
 Developed vehicle monitoring dashboard visualization components
+Designed data pipeline for collecting and processing vehicle sensor data
