@@ -25,3 +25,4 @@ Task 23 - Finalizing UI elements
 Task 24 - Completed all individual frontend parts
 Task 25 - Preparing the project presentation
 Task 26 - Main backend part integration
+Task 27 - Daily logbook preparation and updates
