@@ -54,3 +54,4 @@ Task 12 - Frontend and backend environment setup
 Task 13 - Frontend integration of individual components
 Task 14 - System testing and bug fixing
 Task 15 - Completed all individual frontend parts
+Task 16 - Finalized research methodology
