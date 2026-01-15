@@ -16,3 +16,4 @@ Integrated frontend dashboard with backend API services
 Developed vehicle monitoring dashboard visualization components
 Designed data pipeline for collecting and processing vehicle sensor data
 Prepared dataset for driver behaviour analysis and predictive models
+Configured machine learning environment for model training
