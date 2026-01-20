@@ -36,3 +36,4 @@ Task 34 - Shared final documentation with supervisor
 Task 35 - Created presentation outline
 Task 36 - Rehearsed final presentation run
 Task 37 - PP2 presentation completed
+Task 38 - Updated project proposal report
