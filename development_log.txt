@@ -14,3 +14,4 @@ Integrate acoustic analytics with monitoring dashboard
 Add database schema for storing acoustic anomaly events
 Optimize acoustic model inference performance
 Retrain acoustic model using updated dataset
+Evaluate model performance metrics
