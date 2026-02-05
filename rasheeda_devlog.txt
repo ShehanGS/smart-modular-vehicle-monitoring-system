@@ -18,3 +18,4 @@ Designed data pipeline for collecting and processing vehicle sensor data
 Prepared dataset for driver behaviour analysis and predictive models
 Configured machine learning environment for model training
 Trained baseline machine learning model for driver behavior classification
+Optimized ML model parameters for improved prediction accuracy
