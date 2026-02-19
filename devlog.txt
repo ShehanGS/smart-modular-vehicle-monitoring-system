@@ -11,3 +11,4 @@ Connected frontend dashboard with backend monitoring APIs
 Setup machine learning training environment for vehicle fault prediction
 Implemented training pipeline for vehicle health prediction model
 Integrated machine learning prediction module with monitoring system backend
+Performed system level integration testing for monitoring modules
