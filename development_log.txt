@@ -16,3 +16,4 @@ Optimize acoustic model inference performance
 Retrain acoustic model using updated dataset
 Evaluate model performance metrics
 Add abnormal sound alert system
+Implement prototype acoustic monitoring pipeline
