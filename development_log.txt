@@ -17,3 +17,4 @@ Retrain acoustic model using updated dataset
 Evaluate model performance metrics
 Add abnormal sound alert system
 Implement prototype acoustic monitoring pipeline
+Fix bugs and stabilize acoustic analytics module
