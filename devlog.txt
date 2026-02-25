@@ -12,3 +12,4 @@ Setup machine learning training environment for vehicle fault prediction
 Implemented training pipeline for vehicle health prediction model
 Integrated machine learning prediction module with monitoring system backend
 Performed system level integration testing for monitoring modules
+Validated ML model predictions with vehicle test dataset
