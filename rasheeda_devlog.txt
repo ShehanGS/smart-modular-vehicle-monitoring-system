@@ -21,3 +21,4 @@ Trained baseline machine learning model for driver behavior classification
 Optimized ML model parameters for improved prediction accuracy
 Integrated trained ML model with vehicle monitoring system backend
 Tested prototype system with simulated vehicle data inputs
+Fixed system bugs identified during prototype testing phase
