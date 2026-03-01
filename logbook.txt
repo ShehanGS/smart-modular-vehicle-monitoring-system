@@ -30,3 +30,4 @@ Task 28 - Set up training environment
 Task 29 - Documented model results and accuracy
 Task 30 - UI/UX development
 Task 31 - Fix bugs and refine prototype
+Task 32 - Compiled full research paper draft
