@@ -13,3 +13,4 @@ Implemented training pipeline for vehicle health prediction model
 Integrated machine learning prediction module with monitoring system backend
 Performed system level integration testing for monitoring modules
 Validated ML model predictions with vehicle test dataset
+Finalized smart modular vehicle monitoring system prototype
