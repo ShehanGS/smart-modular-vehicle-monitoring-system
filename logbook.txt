@@ -66,3 +66,4 @@ Task 24 - Compiled full research paper draft
 Task 25 - Proofread and formatted final document
 Task 26 - Shared final documentation with supervisor
 Task 27 - Rehearsed presentation first run
+Task 28 - Rehearsed presentation final run
