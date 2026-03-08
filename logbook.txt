@@ -32,3 +32,4 @@ Task 30 - UI/UX development
 Task 31 - Fix bugs and refine prototype
 Task 32 - Compiled full research paper draft
 Task 33 - Proofread and formatted final document
+Task 34 - Shared final documentation with supervisor
