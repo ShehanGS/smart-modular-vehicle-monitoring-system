@@ -1,0 +1,75 @@
+Project Logbook
+Task 1 - Initial discussions on intelligent vehicle system components
+Task 2 - Understanding proposal guidelines and supervisor expectations
+Task 3 - Explained predictive analytics and cloud architecture
+Task 4 - Technical introduction and background of OBD-II integration
+Task 5 - Started preparing proposal presentation
+Task 6 - Preparing for the presentation
+Task 7 - Discussed feedback received from the panel
+Task 8 - Requirement analysis and literature review for cloud integration and predictive maintenance
+Task 9 - Gathered requirements during garage visit
+Task 10 - Updated proposal and slides with refined methodology
+Task 11 - Overall system architecture design
+Task 12 - Component-wise design and responsibility allocation
+Task 13 - Updated each member research component
+Task 14 - Folder structure creation and technology finalization
+Task 15 - Initial discussions on development process
+Task 16 - Individual component development started
+Task 17 - Frontend and backend environment setup
+Task 18 - Implementation process discussion
+Task 19 - Folder structure setup
+Task 20 - Git branch creation and version control setup
+Task 21 - Frontend integration of individual components
+Task 22 - System testing and bug fixing
+Task 23 - Finalizing UI elements
+Task 24 - Completed all individual frontend parts
+Task 25 - Preparing the project presentation
+Task 26 - Main backend part integration
+Task 27 - Daily logbook preparation and updates
+Task 28 - Set up training environment
+Task 29 - Documented model results and accuracy
+Task 30 - UI/UX development
+Task 31 - Fix bugs and refine prototype
+Task 32 - Compiled full research paper draft
+Task 33 - Proofread and formatted final document
+Task 34 - Shared final documentation with supervisor
+Task 35 - Created presentation outline
+Task 36 - Rehearsed final presentation run
+Task 37 - PP2 presentation completed
+Task 38 - Updated project proposal report
+Task 39 - Prepared progress report
+Task 40 - Compiled supporting appendices
+Task 1 - Initial discussions on intelligent vehicle system components
+Task 2 - Started preparing proposal presentation
+Task 3 - Shared proposal draft with co-supervisor
+Task 4 - Literature review on sensor-based condition analysis
+Task 5 - Explained sensor-based condition analysis
+Task 6 - Gathered requirements during garage visit
+Task 7 - Updated proposal and slides with refined methodology
+Task 8 - Overall system architecture design
+Task 9 - Component-wise design and responsibility allocation
+Task 10 - Updated each members research component
+Task 11 - Individual component development
+Task 12 - Frontend and backend environment setup
+Task 13 - Frontend integration of individual components
+Task 14 - System testing and bug fixing
+Task 15 - Completed all individual frontend parts
+Task 16 - Finalized research methodology
+Task 17 - Completed literature review updates
+Task 18 - Finalized dataset collection and cleaning
+Task 19 - Evaluated model performance metrics
+Task 20 - Fine-tuned and optimized model
+Task 21 - Defined prototype scope and features
+Task 22 - Built core prototype functionality
+Task 23 - Fixed bugs and refined prototype
+Task 24 - Compiled full research paper draft
+Task 25 - Proofread and formatted final document
+Task 26 - Shared final documentation with supervisor
+Task 27 - Rehearsed presentation first run
+Task 28 - Rehearsed presentation final run
+Task 29 - PP2 presentation completed
+Task 30 - Updated project proposal report
+Task 31 - Prepared progress report
+Task 32 - Gathered supervisor sign-off documents
+Task 33 - Compiled supporting appendices
+Task 34 - Submitted all required documents
